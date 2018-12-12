@@ -1,29 +1,29 @@
 *{
   color: white;
-  font-family: 'Poppins';
+  font-family: 'Oxygen', sans-serif;
 }
 
 .title, .container h2 {
-  text-shadow: 2px 2px black;
+  text-shadow: 3px 3px black;
 }
 
 .social a {
-  padding: 0.5em;
+  padding: 1.5em;
 }
 
 .social a:hover {
-  color: turquoise;
+  color: Aquamarine;
 }
 
 .UserInput{
-  font-size: 20px;
+  font-size: 25px;
 }
 
 input[value=Submit] {
   background-color: white;
   border: 0.1em solid black;
   border-radius: 0.25em;
-  color: blue;
+  color: SteelBlue;
   padding: 0.5em;
 }
 
@@ -50,7 +50,7 @@ input[value=Submit]:hover {
 }
 
 .social a:hover {
-  color: turquoise;
+  color: Aquamarine;
 }
 
 /* h1 {
